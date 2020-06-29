@@ -1,0 +1,15 @@
+{
+    "ReferencesAndLinks": [
+        ""
+    ], 
+    "DatasetDOI": "", 
+    "Funding": ["XXXX","SSSS"], 
+    "Name": "narrative listening", 
+    "License": "", 
+    "BIDSVersion": "1.0.2", 
+    "Authors": [
+        "Ruiqing Zhang"
+    ], 
+    "Acknowledgments": "", 
+    "HowToAcknowledge": ""
+}
