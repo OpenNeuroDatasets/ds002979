@@ -1,15 +1,18 @@
 {
     "ReferencesAndLinks": [
         ""
-    ], 
-    "DatasetDOI": "", 
-    "Funding": ["XXXX","SSSS"], 
-    "Name": "narrative listening", 
-    "License": "", 
-    "BIDSVersion": "1.0.2", 
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002979.v1.0.0",
+    "Funding": [
+        "XXXX",
+        "SSSS"
+    ],
+    "Name": "narrative listening",
+    "License": "CC0",
+    "BIDSVersion": "1.0.2",
     "Authors": [
         "Ruiqing Zhang"
-    ], 
-    "Acknowledgments": "", 
+    ],
+    "Acknowledgments": "",
     "HowToAcknowledge": ""
 }
