@@ -1,22 +1,15 @@
 {
     "ReferencesAndLinks": [
         ""
-    ],
-    "DatasetDOI": "10.18112/openneuro.ds002979.v1.0.0",
-    "Funding": [
-        "XXXX",
-        "SSSS"
-    ],
-    "Name": "L2 narrative listening",
-    "License": "CC0",
-    "BIDSVersion": "1.0.2",
+    ], 
+    "DatasetDOI": "", 
+    "Funding": ["XXXX","SSSS"], 
+    "Name": "narrative listening", 
+    "License": "", 
+    "BIDSVersion": "1.0.2", 
     "Authors": [
-        "Ruiqing Zhang",
-        "Jing Wang",
-        "Hui Lin",
-        "Qing Cai",
-        "Nickloas Truk-Browne"
-    ],
-    "Acknowledgments": "",
+        "Ruiqing Zhang"
+    ], 
+    "Acknowledgments": "", 
     "HowToAcknowledge": ""
 }
