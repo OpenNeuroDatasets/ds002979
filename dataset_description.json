@@ -1,15 +1,22 @@
 {
     "ReferencesAndLinks": [
         ""
-    ], 
-    "DatasetDOI": "", 
-    "Funding": ["XXXX","SSSS"], 
-    "Name": "narrative listening", 
-    "License": "", 
-    "BIDSVersion": "1.0.2", 
+    ],
+    "DatasetDOI": "",
+    "Funding": [
+        "XXXX",
+        "SSSS"
+    ],
+    "Name": "narrative listening",
+    "License": "CC0",
+    "BIDSVersion": "1.0.2",
     "Authors": [
-        "Ruiqing Zhang"
-    ], 
-    "Acknowledgments": "", 
+        "Ruiqing Zhang",
+        "Jing Wang",
+        "Hui Lin",
+        "Qing Cai",
+        "Nickloas Turk-Browne"
+    ],
+    "Acknowledgments": "",
     "HowToAcknowledge": ""
 }
