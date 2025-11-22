@@ -1,1 +1,2 @@
 759e8d64-5b32-46a0-9e96-68fc5c4f2d49 autoenable=true bucket=openneuro.org datacenter=US encryption=none exporttree=yes fileprefix=ds002979/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 public=no publicurl=https://s3.amazonaws.com/openneuro.org storageclass=STANDARD type=S3 versioning=yes timestamp=1763796648s
+eddec7f4-7f47-4bf7-9b34-ea3b6bb74a9d name=s3-BACKUP timestamp=1763796648s type=S3 encryption=none fileprefix=ds002979/ public=no partsize=none bucket=openneuro-production cost=400 host=storage.googleapis.com storageclass=ARCHIVE
