@@ -2,12 +2,12 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": "ds002979",
+    "DatasetDOI": "doi:10.18112/openneuro.ds002979.v1.0.1",
     "Funding": [
         "Unlisted"
     ],
     "Name": "narrative listening",
-    "License": "",
+    "License": "CC0",
     "BIDSVersion": "1.0.2",
     "Authors": [
         "Ruiqing Zhang",
